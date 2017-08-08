@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Some helpful setters (a.k.a. Lenses/foci) using and extending please-focus",
-    "repository": "https://github.com/user/project.git",
+    "repository": "https://github.com/matheus23/please-focus-more.git",
     "license": "BSD3",
     "source-directories": [
         "src"
